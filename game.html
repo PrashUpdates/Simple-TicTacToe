@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Play - TicTac Arena</title>
+
+<link rel="stylesheet"
+href="style.css">
+
+</head>
+
+<body class="game-page">
+
+<div class="game-container">
+
+<h1 class="game-title">
+
+❌ Tic Tac Toe ⭕
+
+</h1>
+
+<div class="top-bar">
+
+<div class="score-box">
+
+<span>X :
+<b id="scoreX">0</b></span>
+
+<span>O :
+<b id="scoreO">0</b></span>
+
+<span>Draw :
+<b id="draw">0</b></span>
+
+</div>
+
+<button
+id="themeBtn"
+class="small-btn">
+
+🌙
+
+</button>
+
+</div>
+
+<div class="mode-box">
+
+<label>
+
+Mode
+
+</label>
+
+<select id="mode">
+
+<option value="pvp">
+
+Player vs Player
+
+</option>
+
+<option value="ai">
+
+Player vs AI
+
+</option>
+
+</select>
+
+<label>
+
+Level
+
+</label>
+
+<select id="level">
+
+<option value="easy">
+
+Easy
+
+</option>
+
+<option value="medium">
+
+Medium
+
+</option>
+
+<option value="hard">
+
+Hard
+
+</option>
+
+</select>
+
+</div>
+
+<p id="status">
+
+Player X Turn
+
+</p>
+
+<div class="board" id="board">
+
+<div class="cell" data-index="0"></div>
+<div class="cell" data-index="1"></div>
+<div class="cell" data-index="2"></div>
+
+<div class="cell" data-index="3"></div>
+<div class="cell" data-index="4"></div>
+<div class="cell" data-index="5"></div>
+
+<div class="cell" data-index="6"></div>
+<div class="cell" data-index="7"></div>
+<div class="cell" data-index="8"></div>
+
+</div>
+
+<div class="controls">
+
+<button
+id="restartBtn"
+class="btn">
+
+🔄 Restart Match
+
+</button>
+
+<button
+id="resetBtn"
+class="btn danger">
+
+🗑 Reset Score
+
+</button>
+
+<a
+href="index.html"
+class="btn secondary">
+
+🏠 Home
+
+</a>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+<script src="game.js"></script>
+
+</body>
+
+</html>
+
