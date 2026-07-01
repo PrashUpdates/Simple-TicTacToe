@@ -8,6 +8,10 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Responsive-Yes-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Animations-5-8B5CF6?style=for-the-badge">
+
 
 ## ✴️ Features
 - ❌ Player vs Player
