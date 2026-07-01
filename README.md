@@ -9,7 +9,7 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 </p>
 
 
-## ✨ Features
+## ✴️ Features
 - ❌ Player vs Player
 - 🤖 Player vs AI (Easy, Medium, Hard)
 - 🌙 Dark / Light Mode
