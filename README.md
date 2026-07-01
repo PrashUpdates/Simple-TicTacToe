@@ -8,7 +8,6 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
 </p>
 
----
 
 ## ✨ Features
 - ❌ Player vs Player
@@ -19,6 +18,5 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - 🗑️ Reset Scores
 - 📱 Responsive Design
 
----
 
-⭐ A beginner-friendly project with a clean UI and AI-based gameplay.
+### ⭐ A beginner-friendly project with a clean UI and AI-based gameplay.
